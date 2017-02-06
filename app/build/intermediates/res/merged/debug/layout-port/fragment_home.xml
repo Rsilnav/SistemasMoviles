@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.uva.asm2.cluster02.vista.HomeFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/chart1"
+            android:layout_width="match_parent"
+            android:layout_height="350dp"
+            android:layout_margin="20dp"
+             />
+
+        <TextView
+            android:text="@string/saldo_actual"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textoSaldo"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="30sp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textAlignment="center"
+            android:gravity="center" />
+
+        <TextView
+            android:text="@string/_0"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/saldoTotal"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="40sp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textAlignment="center"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+</FrameLayout>

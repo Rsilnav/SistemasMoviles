@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Cluster02</string>
+    <string name="text_favorites">Favoritos</string>
+    <string name="text_schedules">Tiempos</string>
+    <string name="text_music">Musica</string>
+    <string name="hello_blank_fragment">Hola mundo</string>
+
+
+    <string-array name="categoria_item">
+        <item>OCIO</item>
+        <item>REGALO</item>
+        <item>ALIMENTACION</item>
+        <item>TRABAJO</item>
+        <item>VENTA</item>
+        <item>PROPINA</item>
+        <item>ROPA</item>
+    </string-array>
+
+    <string-array name="tipo_item">
+        <item>INGRESO</item>
+        <item>GASTO</item>
+    </string-array>
+    <string name="title_activity_creditos">CreditosActivity</string>
+    <string name="creditos">Créditos</string>
+    <string name="aplicaci_n_desarrollada">Aplicación desarrollada por los alumnos de Grado en Ingeniería Informática:</string>
+    <string name="mario_hernansanz_sanz">Mario Hernansanz Sanz</string>
+    <string name="javier_iba_ez_soloaga">Javier Ibañez Soloaga</string>
+    <string name="cristian_pe_as_arias">Cristian Peñas Arias</string>
+    <string name="rafael_sillero_navajas">Rafael Sillero Navajas</string>
+    <string name="ruta">Ruta:</string>
+    <string name="exportar_datos">Exportar Datos</string>
+    <string name="nombre_del_archivo">Nombre del archivo</string>
+    <string name="eliminar_datos_e_importar">Eliminar datos e importar</string>
+    <string name="importar_datos">Importar Datos</string>
+    <string name="borrar">Borrar</string>
+    <string name="compartir">Compartir</string>
+    <string name="saldo_actual">Saldo Actual</string>
+    <string name="a_adir_movimiento">Añadir movimiento</string>
+    <string name="titulo">Titulo</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="a_adir">Añadir</string>
+    <string name="importar">Importar</string>
+    <string name="exportar">Exportar</string>
+    <string name="imagen_en_la_lista">Imagen en la lista</string>
+    <string name="exportado">Exportado con éxito</string>
+    <string name="importado">Importado con éxito</string>
+    <string name="he_ingresado">"He ingresado "</string>
+    <string name="He_hecho_un_gasto">"He hecho un gasto de "</string>
+    <string name="en">" en "</string>
+    <string name="gasto">"Gasto "</string>
+    <string name="ingreso">\"Ingreso \"</string>
+    <string name="fallo_titulo">Rellena el titulo</string>
+    <string name="fallo_cantidad">Rellena la cantidad</string>
+    <string name="movimiento_exito">Movimiento guardado con éxito</string>
+    <string name="movimiento_borrado">Movimiento borrado</string>
+    <string name="selecciona_fuente">Selecciona fuente</string>
+    <string name="enviar_a">Enviar a</string>
+    <string name="compartir_con">Compartir con</string>
+    <string name="dinero">Dinero</string>
+    <string name="no_hay_archivos">No hay archivos</string>
+    <string name="imagen_ampliada">Imagen ampliada</string>
+    <string name="inicio">Inicio</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="movimientos">Movimientos</string>
+    <string name="opciones">Opciones</string>
+    <string name="euro">€</string>
+    <string name="_0">0 €</string>
+    <string name="textview">TextView</string>
+
+    <!-- TODO: Revisar todos los Strings -->
+
+
+</resources>
